@@ -41,5 +41,17 @@
     "prettier": "2.5.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.5"
-  }
+  },
+  "description": "<a href=\"https://www.gatsbyjs.com\">   <img alt=\"Gatsby\" src=\"https://www.gatsbyjs.com/Gatsby-Monogram.svg\" width=\"60\" /> </a>",
+  "main": "gatsby-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-mi-berlin/gatsby-starter-sanity-homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk-mi-berlin/gatsby-starter-sanity-homepage/issues"
+  },
+  "homepage": "https://github.com/mk-mi-berlin/gatsby-starter-sanity-homepage#readme"
 }
