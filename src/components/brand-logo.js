@@ -2,7 +2,7 @@ import * as React from "react"
 
 export default function BrandLogo() {
   return (
-    <svg
+    <svg 
       width="82"
       height="24"
       viewBox="0 0 82 24"
