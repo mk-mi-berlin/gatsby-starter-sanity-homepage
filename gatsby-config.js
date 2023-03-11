@@ -54,7 +54,7 @@ module.exports = {
           // Avoids sending pageview hits from custom paths
           exclude: ["/preview/**", "/do-not-track/me/too/"],
           // Defaults to https://www.googletagmanager.com
-          origin: "https://gatsbystartersanityhomepa23655.gatsbyjs.io",
+          origin: "gatsbystartersanityhomepa23655.gatsbyjs.io",
           // Delays processing pageview events on route update (in milliseconds)
           delayOnRouteUpdate: 0,
         },
