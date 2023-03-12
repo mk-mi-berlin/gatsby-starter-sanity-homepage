@@ -6,3 +6,4 @@ export const colors = {
   active: "#e6e6e6",
   black: "#000",
 }
+//#F03F30 
